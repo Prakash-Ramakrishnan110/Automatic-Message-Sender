@@ -1,3 +1,4 @@
+import utils.session
 import pywhatkit
 
 phone = "+917418132954"              # receiver's number (with country code)
